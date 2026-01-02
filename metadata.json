@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FitSmart AI v2",
+  "description": "An intelligent workout analyzer that evaluates routines based on biomechanics, user goals, and safety. Upload PDFs, images, or text to get personalized optimizations.",
+  "requestFramePermissions": []
+}
